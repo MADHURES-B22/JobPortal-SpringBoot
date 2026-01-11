@@ -50,7 +50,7 @@ src/main/java/com/loga/spring_rest_project/
   "postProfile": "Java Developer",
   "postDesc": "Looking for Spring Boot developer",
   "reqExperience": 2
-  "postTechStack : Spring boot, Spring Data JPA, REST Api
+  "postTechStack" : Spring boot, Spring Data JPA, REST Api
 }
 
 How to Run
